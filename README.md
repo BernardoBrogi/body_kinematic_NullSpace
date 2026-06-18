@@ -106,9 +106,9 @@ If you found this work useful for developing your own research, please consider 
   journal={IEEE Transactions on Neural Systems and Rehabilitation Engineering},
   title={Hybrid Kinematic and Muscular Null Space for Simultaneous Control of Natural and Extra Degrees of Freedom},
   year={2026},
-  volume={},
+  volume={34},
   number={},
-  pages={},
+  pages={2971-2981},
   doi={10.1109/TNSRE.2026.3702775}}
 ```
 
