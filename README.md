@@ -97,10 +97,9 @@ Runtime behavior:
 In this [video](https://youtu.be/1KZRV8W0jXI) an example of the procedure to compute calibration and online control.
 
 
-## Cite Us
+## Cite Us!
 
-If this repository is useful in your research, please cite:
-
+If you found this work useful for developing your own research, please consider citing us using the following BibTeX entry:
 ```bibtex
 @article{rossato2026hybrid,
   author={Rossato, Julien and Brogi, Bernardo and Baldi, Tommaso Lisini and Hinnekens, Elodie and Prattichizzo, Domenico and D’Avella, Andrea},
